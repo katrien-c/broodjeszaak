@@ -1,0 +1,128 @@
+{
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "wit",
+      "price": 1.5,
+      "type": "bread"
+    },
+    {
+      "id": 2,
+      "name": "bruin",
+      "price": 2,
+      "type": "bread"
+    },
+    {
+      "id": 3,
+      "name": "tonijn",
+      "price": 1.7,
+      "type": "topping"
+    },
+    {
+      "id": 4,
+      "name": "préparé",
+      "price": 1.5,
+      "type": "topping"
+    },
+    {
+      "id": 5,
+      "name": "ham",
+      "price": 1,
+      "type": "topping"
+    },
+    {
+      "id": 6,
+      "name": "kaas",
+      "price": 1,
+      "type": "topping"
+    },
+    {
+      "id": 7,
+      "name": "mayonaise",
+      "price": 0.2,
+      "type": "sauce"
+    },
+    {
+      "id": 8,
+      "name": "looksaus",
+      "price": 0.4,
+      "type": "sauce"
+    },
+    {
+      "id": 9,
+      "name": "smos",
+      "price": 0.4,
+      "type": "smos"
+    },
+    {
+      "dfgdfgd": "",
+      "id": 10
+    },
+    {
+      "sdfsdf": "",
+      "id": 11
+    },
+    {
+      "name": "katrien",
+      "id": 12
+    },
+    {
+      "orderedBy": "dgdfgdf",
+      "sandwishes": [
+        [
+          1,
+          3
+        ]
+      ],
+      "id": 13
+    },
+    {
+      "orderedBy": "kc",
+      "sandwishes": [
+        {
+          "ingredients": [
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4,
+              5,
+              9
+            ]
+          ]
+        },
+        {
+          "ingredients": [
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4,
+              5,
+              9
+            ]
+          ]
+        },
+        {
+          "ingredients": [
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4,
+              5,
+              9
+            ]
+          ]
+        }
+      ],
+      "id": 14
+    }
+  ]
+}
